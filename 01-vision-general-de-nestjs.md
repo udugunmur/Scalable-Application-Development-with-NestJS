@@ -507,3 +507,4 @@ Elegir un framework backend es una decisión importante que afectará la futura 
 ### Resumen
 
 En este capítulo, nos hemos embarcado en un emocionante viaje explorando NestJS, un framework robusto diseñado para hacer que el desarrollo del lado del servidor sea fluido y escalable. Comenzamos presentándote el framework, discutiendo sus orígenes y describiendo sus filosofías centrales. Luego profundizamos en el poder transformador de TypeScript en un entorno NestJS, aclarando cómo el tipado fuerte puede mejorar la mantenibilidad del código y reducir errores. Además, examinamos las características clave de NestJS que lo convierten en una opción altamente modular y escalable para el desarrollo web moderno, como su arquitectura bien estructurada y su enfoque impulsado por la comunidad.
+
